@@ -1,4 +1,4 @@
-#!/home/fors/PycharmProjects/Learn/git_learning/venv/bin/python3
+#!/home/fors/PycharmProjects/Learn/git_learning/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
